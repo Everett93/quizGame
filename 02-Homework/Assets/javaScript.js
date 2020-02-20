@@ -1,0 +1,20 @@
+var question = [" What is the HTML tag under which one can write the JavaScript code?"];
+var a1 =["<javascript>"];
+var a2 =["<scripted>"];
+var a3 =["<script>"];
+var a4 =["<js>"];
+var c =["Correct"];
+var i =["Incorrect"];
+var disapper001 = document.getElementsById("disapper001");
+var message001 = document.getElementsById("message001");
+var question001 = document.getElementById("question001");
+var option001 = document.getElementsById("option001");
+var option002 = document.getElementsById("option002");
+var option003 = document.getElementsById("option003");
+var option004 = document.getElementsById("option004");
+var number001 = document.getElementsById("number001");
+var n = 0;
+n++;
+var s = 0;
+s++;
+
